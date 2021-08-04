@@ -4,7 +4,7 @@ An example Python project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
 Check out the [python3](https://github.com/srcclr/example-python/tree/python3) branch for a project that builds with Python 3.
 
-## Try me!  
+## Try me!   
 
 ```
 brew tap srcclr/srcclr
